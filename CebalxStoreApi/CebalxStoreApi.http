@@ -1,0 +1,6 @@
+@CebalxStoreApi_HostAddress = http://localhost:5247
+
+GET {{CebalxStoreApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
